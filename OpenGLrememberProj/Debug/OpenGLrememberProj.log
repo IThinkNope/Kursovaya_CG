@@ -1,0 +1,14 @@
+﻿  GUItextRectangle.cpp
+  MyOGL.cpp
+  MyShaders.cpp
+  Object.cpp
+  ObjLoader.cpp
+  OpenGLrememberProj.cpp
+  Primitives.cpp
+  PrimitivesStatic.cpp
+  Render.cpp
+c:\users\mrpirate\desktop\kursovaya\openglrememberproj\render.cpp(186): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+  Texture.cpp
+c:\users\mrpirate\desktop\kursovaya\openglrememberproj\texture.cpp(123): warning C4309: =: усечение константного значения
+  Создание кода...
+  OpenGLrememberProj.vcxproj -> C:\Users\MrPirate\Desktop\Kursovaya\Debug\OpenGLrememberProj.exe
