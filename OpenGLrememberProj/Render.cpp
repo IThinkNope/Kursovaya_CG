@@ -407,9 +407,9 @@ ObjFile objModel,monkey;
 Texture monkeyTex;
 Texture SnowMan;
 
-Player ply("models\\Player.obj");
-Wall wall("models\\Wall.obj");
-Bonus snow("models\\Bonus.obj");
+Player ply("models\\Player.obj_m");
+Wall wall("models\\Wall.obj_m");
+Bonus snow("models\\Bonus.obj_m");
 
 //выполняется перед первым рендером
 void initRender(OpenGL *ogl)
